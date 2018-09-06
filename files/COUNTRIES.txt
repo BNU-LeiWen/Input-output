@@ -1,0 +1,62 @@
+AUS Australia 
+ARG Argentina
+AUT Austria
+BGR Bulgaria
+BEL Belgium 
+BRA Brazil
+CAN Canada 
+BRN Brunei Darussalam
+CHL Chile
+CHN China (People's Republic of)
+CZE Czech Republic 
+COL Colombia
+DNK Denmark 
+CRI Costa Rica
+EST Estonia 
+CYP Cyprus
+FIN Finland 
+HKG Hong Kong, China
+FRA France 
+HRV Croatia
+DEU Germany 
+IDN Indonesia
+GRC Greece 
+IND India
+HUN Hungary 
+KHM Cambodia
+ISL Iceland 
+LTU Lithuania
+IRL Ireland 
+LVA Latvia
+ISR Israel 
+MLT Malta
+ITA Italy 
+MYS Malaysia
+JPN Japan 
+PHL Philippines
+KOR Korea 
+ROU Romania
+LUX Luxembourg 
+RUS Russian Federation
+MEX Mexico 
+SAU Saudi Arabia
+NLD Netherlands 
+SGP Singapore
+NZL New Zealand 
+THA Thailand
+NOR Norway 
+TUN Tunisia
+POL Poland 
+TWN Chinese Taipei
+PRT Portugal 
+VNM Viet Nam
+SVK Slovak Republic 
+ZAF South Africa
+SVN Slovenia 
+RoW Rest of the world
+ESP Spain
+SWE Sweden
+CHE Switzerland
+TUR Turkey
+GBR United Kingdom
+USA United States

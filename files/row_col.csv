@@ -1,0 +1,43 @@
+"TTL_C01T05: Agriculture, hunting, forestry and fishing","C01T05: Agriculture, hunting, forestry and fishing"
+TTL_C10T14: Mining and quarrying,C10T14: Mining and quarrying
+"TTL_C15T16: Food products, beverages and tobacco","C15T16: Food products, beverages and tobacco"
+"TTL_C17T19: Textiles, textile products, leather and footwear","C17T19: Textiles, textile products, leather and footwear"
+TTL_C20: Wood and products of wood and cork,C20: Wood and products of wood and cork
+"TTL_C21T22: Pulp, paper, paper products, printing and publishing","C21T22: Pulp, paper, paper products, printing and publishing"
+"TTL_C23: Coke, refined petroleum products and nuclear fuel","C23: Coke, refined petroleum products and nuclear fuel"
+TTL_C24: Chemicals and chemical products,C24: Chemicals and chemical products
+TTL_C25: Rubber and plastics products,C25: Rubber and plastics products
+TTL_C26: Other non-metallic mineral products,C26: Other non-metallic mineral products
+TTL_C27: Basic metals,C27: Basic metals
+TTL_C28: Fabricated metal products,C28: Fabricated metal products
+"TTL_C29: Machinery and equipment, nec","C29: Machinery and equipment, nec"
+"TTL_C30T33X: Computer, Electronic and optical equipment","C30T33X: Computer, Electronic and optical equipment"
+"TTL_C31: Electrical machinery and apparatus, nec","C31: Electrical machinery and apparatus, nec"
+"TTL_C34: Motor vehicles, trailers and semi-trailers","C34: Motor vehicles, trailers and semi-trailers"
+TTL_C35: Other transport equipment,C35: Other transport equipment
+TTL_C36T37: Manufacturing nec; recycling,C36T37: Manufacturing nec; recycling
+"TTL_C40T41: Electricity, gas and water supply","C40T41: Electricity, gas and water supply"
+TTL_C45: Construction,C45: Construction
+TTL_C50T52: Wholesale and retail trade; repairs,C50T52: Wholesale and retail trade; repairs
+TTL_C55: Hotels and restaurants,C55: Hotels and restaurants
+TTL_C60T63: Transport and storage,C60T63: Transport and storage
+TTL_C64: Post and telecommunications,C64: Post and telecommunications
+TTL_C65T67: Financial intermediation,C65T67: Financial intermediation
+TTL_C70: Real estate activities,C70: Real estate activities
+TTL_C71: Renting of machinery and equipment,C71: Renting of machinery and equipment
+TTL_C72: Computer and related activities,C72: Computer and related activities
+TTL_C73T74: R&D and other business activities,C73T74: R&D and other business activities
+TTL_C75: Public administration and defence; compulsory social security,C75: Public administration and defence; compulsory social security
+TTL_C80: Education,C80: Education
+TTL_C85: Health and social work,C85: Health and social work
+"TTL_C90T93: Other community, social and personal services","C90T93: Other community, social and personal services"
+TTL_C95: Private households with employed persons,C95: Private households with employed persons
+TXS_INT_FNL: Taxes less subsidies on intermediate and final products,HFCE: Households final consumption expenditure
+TTL_INT_FNL: Total intermediate and final expenditure at purchasers' prices,NPISH: Non-profit institutions serving households
+VALU: Value added at basic prices,GGFC: General Government final consumption
+OUTPUT: Output,GFCF: Gross Fixed Capital Formation
+,INVNT: Changes in inventories
+,CONS_ABR: Direct purchases abroad by residents (imports)
+,CONS_NONRES: Direct purchases by non-residents (exports)
+,EXPO: Exports (cross border)
+,IMPO: Imports (cross border)
