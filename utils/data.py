@@ -1,6 +1,8 @@
 #!/urs/bin/env python
 
 import numpy as np
+from collections import defaultdict 
+import csv
 
 ##
 def construct_flow_network(f):
@@ -163,8 +165,6 @@ def min_max_norm_for_vec(arr):
 ##
 def load_industry_infos(path):
     
-    from collections import defaultdict 
-    import csv
 
     industry_info = defaultdict(list)
     with open(path, 'rb') as f:
