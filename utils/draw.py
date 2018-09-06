@@ -55,7 +55,7 @@ def plot_embed_for_country(file_name, fname, dis2ss, size, industry_info):
     plt.ylabel('To-Sink Distance (T)', fontproperties=get_fonts(12))
     plt.legend((l0, l1, l2, l3, l4),('AGRICULTURE, HUNTING, FORESTRY AND FISHING',\
                'MANUFACTURING','NON BUSINESS SECTOR SERVICES', 'BUSINESS SECTOR SERVICES',\
-               'CONSTRUCTION, REAL ESTATE'), \
+               'CONSTRUCTION AND REAL ESTATE'), \
                 scatterpoints=1, fontsize=8, markerscale= 0.3, loc='upper right')
        
     plt.savefig(file_name) 
